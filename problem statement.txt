@@ -1,0 +1,8 @@
+Problem Statement
+Despite having detailed order and shipping data, the organization lacks:
+
+• Clear measurement of on-time vs delayed deliveries
+• Understanding of why shipments are delayed
+• Visibility into high-risk regions, markets, and shipping modes
+• Diagnostics to explain late delivery risk
+As a result, logistics teams operate reactively rather than preventively.
