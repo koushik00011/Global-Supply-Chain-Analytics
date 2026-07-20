@@ -261,7 +261,7 @@ Global-Supply-Chain-Analytics
 
 **Koushik Naidu**
 
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: https://github.com/koushik00011)
 - GitHub: https://github.com/koushik00011
 
 ---
