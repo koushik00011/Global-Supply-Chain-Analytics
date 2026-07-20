@@ -263,6 +263,7 @@ Global-Supply-Chain-Analytics
 
 - LinkedIn: https://github.com/koushik00011)
 - GitHub: https://github.com/koushik00011
+- Streamlit weblink: https://global-supply-chain-analytics-4q35x7oxtfycrwuuugxvys.streamlit.app/
 
 ---
 
